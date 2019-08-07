@@ -1,0 +1,67 @@
+/* Medium Layout: 1280px. W:970px */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	
+.boundary{
+	width: 970px;
+}
+
+
+
+.main-menu {
+	max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* Tablet Layout: 768px. W:750px */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	
+.boundary{
+	width: 750px;
+}	
+	
+	
+}
+
+
+/* Mobile Layout: 320px. W:300 */
+
+@media only screen and (max-width: 767px) {
+	
+	
+.boundary{
+	width: 300px;
+}	
+
+	
+	
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
